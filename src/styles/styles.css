@@ -44,7 +44,7 @@ body {
     background: linear-gradient(to right, #81CAD6, #6c757d);
     color: black;
   }
-  
+ 
   .product-list {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
